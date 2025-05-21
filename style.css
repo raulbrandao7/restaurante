@@ -210,7 +210,7 @@ footer .social a:hover {
 }
 
 /* Responsivo */
-@media (max-width: 325px) {
+@media (max-width: 700px) {
   .nav-links {
     flex-direction: column;
     align-items: flex-start;
@@ -239,7 +239,7 @@ hr {
   padding: 10px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 300px) {
   .menu-toggle {
     display: block;
   }
